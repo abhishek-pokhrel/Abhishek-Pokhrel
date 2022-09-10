@@ -1,17 +1,8 @@
 
 It's **Abhishek Pokhrel**.
 
-```css
-.markdown-body p{
-display: inline;
-}
-```
 
 
-<img src="icons/html5.svg" width="50px" style="display: inline;">
-<img src="icons/react.svg" width="50px" style="display: inline;">
-<img src="icons/css3-alt.svg" width="50px" style="display: inline;">
-<img src="icons/square-js.svg" width="50px" style="display: inline;">
 
 <i class="fa-brands fa-html5"></i>
 <i class="fa-brands fa-css3-alt"></i>
