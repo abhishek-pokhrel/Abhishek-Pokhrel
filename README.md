@@ -2,7 +2,7 @@
 Hi there, thanks for stopping by, this is **Abhishek Pokhrel**.
 
 <img align='right' src="https://avatars.githubusercontent.com/u/89846718?v=4" width="230">
-<p aligh="right">Haiteri Yo Randi Ko Chak</p>
+<p style="text-align: right;"">Haiteri Yo Randi Ko Chak</p>
 
 ```javascript
 const abhishek = {
