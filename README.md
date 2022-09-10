@@ -1,5 +1,12 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 It's **Abhishek Pokhrel**.
+
+<i class="fa-brands fa-html5"></i>
+<i class="fa-brands fa-css3-alt"></i>
+<i class="fa-brands fa-js"></i>
+<i class="fa-brands fa-react"></i>
+<i class="fa-brands fa-node"></i>
 
 <img align='right' src="https://avatars.githubusercontent.com/u/89846718?v=4" width="230">
 
