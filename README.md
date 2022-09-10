@@ -1,9 +1,6 @@
 
 It's **Abhishek Pokhrel**.
 
-```html
-<link rel="stylesheet" href="style.css">
-```
 
 <i class="fa-brands fa-html5"></i>
 <i class="fa-brands fa-css3-alt"></i>
