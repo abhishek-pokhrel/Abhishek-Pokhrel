@@ -1,16 +1,22 @@
-### Hi there 👋
+module main
 
-<!--
-**Abhishek-Pokhrel/Abhishek-Pokhrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+aboutMe :: struct {
+  pronouns :: string[];
+  languages :: string[];
+  hobbies :: string[];
+  funFact :: string;
+}
 
-Here are some ideas to get you started:
+main :: func(): void {
+  abhishek :: aboutMe = {
+    pronouns: ["He", "Him"],
+    languages: ["C", "JS", "Python", "SQL"],
+    hobbies: ["Coding", "Gaming", "Exploring"],
+    funFact: "I actually touch grass!"
+  };
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  println "Pronouns: ${ethan.pronouns}";
+  println "Languages I Know: ${ethan.languages}";
+  println "My Hobbies: ${abhishek.hobbies}";
+  println "Fun Fact: ${abhishek.funFact}";
+}
