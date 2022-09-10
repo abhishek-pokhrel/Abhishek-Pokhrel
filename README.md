@@ -2,7 +2,7 @@
 It's **Abhishek Pokhrel**.
 
 
-<img src="icons/html5.svg">
+<img src="icons/html5.svg" width="50px">
 
 <i class="fa-brands fa-html5"></i>
 <i class="fa-brands fa-css3-alt"></i>
