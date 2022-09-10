@@ -1,13 +1,11 @@
 
 It's **Abhishek Pokhrel**.
 
-<style>
-
+```css
 .markdown-body p{
 display: inline;
 }
-
-</style>
+```
 
 
 <img src="icons/html5.svg" width="50px" style="display: inline;">
