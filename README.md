@@ -1,6 +1,15 @@
 
 It's **Abhishek Pokhrel**.
 
+<style>
+
+.markdown-body p{
+display: inline;
+}
+
+</style>
+
+
 <img src="icons/html5.svg" width="50px" style="display: inline;">
 <img src="icons/react.svg" width="50px" style="display: inline;">
 <img src="icons/css3-alt.svg" width="50px" style="display: inline;">
