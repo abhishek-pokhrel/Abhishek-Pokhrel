@@ -1,22 +1,29 @@
-module main
 
-aboutMe :: struct {
-  pronouns :: string[];
-  languages :: string[];
-  hobbies :: string[];
-  funFact :: string;
-}
+Hi there, thanks for stopping by, this is **Abhishek Pokhrel**.
 
-main :: func(): void {
-  abhishek :: aboutMe = {
-    pronouns: ["He", "Him"],
-    languages: ["C", "JS", "Python", "SQL"],
-    hobbies: ["Coding", "Gaming", "Exploring"],
-    funFact: "I actually touch grass!"
-  };
+<img align='right' src="https://avatars.githubusercontent.com/u/89846718?v=4" width="230">
 
-  println "Pronouns: ${ethan.pronouns}";
-  println "Languages I Know: ${ethan.languages}";
-  println "My Hobbies: ${abhishek.hobbies}";
-  println "Fun Fact: ${abhishek.funFact}";
-}
+```javascript
+const abhishek = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["web dev", "tech", "game"],
+    technologies: {
+        frontEnd: {
+            js: ["Vanilla", "React"],
+            css: ["bootstrap", "sass"]
+        },
+        backEnd: ["Node JS", "Django"],
+        databases: ["MySql", "PostgreSQL", "MongoDB"],
+    }
+};
+```
+
+![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Pokhrel&hide=contribs,prs&count_private=true&show_icons=true)
+
+<a href="https://github.com/Abhishek-Pokhre">
+  <img src="https://img.shields.io/github/followers/Abhishek-Pokhrel">
+</a>
+<a href="https://github.com/Abhishek-PokhreAbhishek-Pokhrel">
+   <img src="https://komarev.com/ghpvc/?username=Abhishek-Pokhrel">
+</a>
+
