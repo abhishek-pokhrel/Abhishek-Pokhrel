@@ -1,8 +1,8 @@
 
-Hi there, thanks for stopping by, this is **Abhishek Pokhrel**.
+It's **Abhishek Pokhrel**.
 
 <img align='right' src="https://avatars.githubusercontent.com/u/89846718?v=4" width="230">
-<p style="text-align: right;"">Haiteri Yo Randi Ko Chak</p>
+
 
 ```javascript
 const abhishek = {
