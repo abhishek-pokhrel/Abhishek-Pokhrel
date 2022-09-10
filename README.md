@@ -24,7 +24,7 @@ const abhishek = {
 <a href="https://github.com/Abhishek-Pokhrel">
   <img src="https://img.shields.io/github/followers/Abhishek-Pokhrel">
 </a>
-<a href="https://github.com/Abhishek-PokhreAbhishek-Pokhrel">
+<a href="https://github.com/Abhishek-Pokhrel/">
    <img src="https://komarev.com/ghpvc/?username=Abhishek-Pokhrel">
 </a>
 
