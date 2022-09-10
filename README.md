@@ -1,12 +1,13 @@
 
 It's **Abhishek Pokhrel**.
 
-
-<img src="icons/html5.svg" width="50px">
-<img src="icons/react.svg" width="50px">
-<img src="icons/css3-alt.svg" width="50px">
-<img src="icons/square-js.svg" width="50px">
-
+<div style="display:flex;">
+    
+    <img src="icons/html5.svg" width="50px">
+    <img src="icons/react.svg" width="50px">
+    <img src="icons/css3-alt.svg" width="50px">
+    <img src="icons/square-js.svg" width="50px">
+</div>
 <i class="fa-brands fa-html5"></i>
 <i class="fa-brands fa-css3-alt"></i>
 <i class="fa-brands fa-js"></i>
