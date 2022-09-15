@@ -20,7 +20,7 @@ const abhishek = {
 };
 ```
 
-![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Pokhrel&hide=contribs,prs&count_private=true&show_icons=true)
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Pokhrel&hide=contribs,prs&count_private=true&show_icons=true)
 
 <a href="https://github.com/Abhishek-Pokhrel">
   <img src="https://img.shields.io/github/followers/Abhishek-Pokhrel">
