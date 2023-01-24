@@ -1,12 +1,12 @@
 
-It's **Abhishek Pokhrel**.
+It's **Kazu**.
 
 
 <img align='right' src="https://avatars.githubusercontent.com/u/89846718?v=4" width="230">
 
 
 ```javascript
-const abhishek = {
+const kazu = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "game"],
     technologies: {
