@@ -3,9 +3,9 @@
 
 📫 How to reach me **abhishekpokhrel53@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/apokhrel8/">LinkedIn</a></h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/apokhrel8/">LinkedIn</a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
